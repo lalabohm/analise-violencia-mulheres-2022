@@ -13,7 +13,7 @@ O dataset utilizado contém informações sobre os casos de violência reportado
 - Distribuição por Idade
 - Tipos de Violência
 - Municípios com Maior Proporção de Dados Não Informados
-- Distribuição de Tipos de Violência na Comunidade Trans
+- Violência na Comunidade Trans
 
 Com esses dados, é possível compreender melhor não apenas os casos registrados, mas também onde e por que os registros podem estar ausentes ou incompletos, o que contribui para o debate sobre políticas públicas e mecanismos de denúncia.
 

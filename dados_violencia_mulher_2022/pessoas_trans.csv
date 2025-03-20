@@ -1,0 +1,38 @@
+DT_NOTIFIC,DT_NASC,NU_IDADE_N,CS_SEXO,CS_RACA,ID_MN_RESI,LOCAL_OCOR,OUT_VEZES,LES_AUTOP,VIOL_FISIC,VIOL_PSICO,VIOL_SEXU,NUM_ENVOLV,AUTOR_SEXO,ORIENT_SEX,IDENT_GEN
+19/02/2022,27/12/1998,23,Feminino,Preta,Franciscópolis,Bar ou similar,0.0,0.0,1.0,0.0,0.0,Um,Masculino,Homossexual,Transsexual Homem
+14/02/2022,23/10/2005,16,Feminino,Branca,Belo Horizonte,Residencia,1.0,1.0,1.0,0.0,0.0,,Feminino,Homossexual,Transsexual Homem
+16/03/2022,12/09/1976,45,Feminino,Branca,Paraisópolis,Residencia,1.0,1.0,0.0,0.0,0.0,Um,Feminino,Heterossexual,Transsexual Homem
+28/03/2022,07/02/2005,17,Feminino,Parda,Ipatinga,Escola,0.0,1.0,1.0,0.0,0.0,Um,Feminino,Homossexual,Transsexual Homem
+20/04/2022,12/09/2000,21,Feminino,Parda,Ouro Branco,Residencia,1.0,0.0,1.0,0.0,0.0,Um,Masculino,Heterossexual,Transsexual Homem
+27/04/2022,27/07/2004,17,Feminino,Amarela,Juiz de Fora,,0.0,0.0,1.0,0.0,0.0,Dois ou mais,,Homossexual,Transsexual Homem
+23/05/2022,22/10/1999,22,Feminino,Parda,Cordisburgo,Bar ou similar,0.0,0.0,1.0,0.0,0.0,Dois ou mais,Masculino,Heterossexual,Transsexual Homem
+23/05/2022,29/01/2002,20,Feminino,Parda,Bom Jardim de Minas,Residencia,0.0,0.0,1.0,1.0,0.0,,Masculino,Homossexual,Transsexual Homem
+29/05/2022,15/06/2001,20,Feminino,Parda,Ipatinga,Residencia,,1.0,1.0,0.0,0.0,Um,Feminino,,Transsexual Homem
+16/05/2022,04/05/1979,42,Feminino,,Betim,Residencia,1.0,0.0,1.0,1.0,0.0,Um,Masculino,Heterossexual,Transsexual Homem
+05/05/2022,03/02/1997,25,Feminino,Parda,Belo Horizonte,Outro,0.0,0.0,0.0,0.0,0.0,Um,,,Transsexual Homem
+25/06/2022,29/04/2005,16,Feminino,Preta,Volta Grande,Residencia,1.0,0.0,0.0,0.0,1.0,Um,Masculino,Heterossexual,Transsexual Homem
+29/06/2022,01/07/1987,34,Feminino,Parda,Lagoa Santa,Residencia,1.0,0.0,1.0,1.0,1.0,Um,Masculino,Heterossexual,Transsexual Homem
+26/05/2022,04/06/1999,22,Feminino,Branca,Juiz de Fora,Residencia,,1.0,0.0,0.0,0.0,Um,Feminino,Homossexual,Transsexual Homem
+07/07/2022,08/04/1989,33,Feminino,Parda,Uberlândia,Residencia,1.0,1.0,1.0,1.0,0.0,Um,Feminino,,Transsexual Homem
+16/07/2022,23/03/1958,64,Feminino,Parda,Paraopeba,Residencia,0.0,0.0,1.0,0.0,0.0,Dois ou mais,Feminino,Heterossexual,Transsexual Homem
+06/08/2022,13/11/1987,34,Feminino,Branca,Boa Esperança,Residencia,0.0,1.0,1.0,0.0,0.0,Um,Feminino,Heterossexual,Transsexual Homem
+21/07/2022,17/09/1948,73,Feminino,Preta,Teixeiras,Residencia,0.0,0.0,1.0,1.0,0.0,Dois ou mais,Masculino,Heterossexual,Transsexual Homem
+08/04/2022,22/10/2007,14,Feminino,Branca,Turmalina,Residencia,0.0,1.0,0.0,0.0,0.0,Um,Masculino,Heterossexual,Transsexual Homem
+29/08/2022,14/05/1998,24,Feminino,Parda,Belo Horizonte,,,0.0,1.0,0.0,0.0,Dois ou mais,Masculino,Homossexual,Transsexual Homem
+26/09/2022,03/11/2009,12,Feminino,Parda,Serra do Salitre,Residencia,0.0,1.0,1.0,0.0,0.0,Um,Feminino,Heterossexual,Transsexual Homem
+09/09/2022,01/12/1979,42,Feminino,Parda,Belo Horizonte,Residencia,1.0,0.0,1.0,0.0,0.0,Um,Masculino,Heterossexual,Transsexual Homem
+23/06/2022,26/06/1990,31,Feminino,Branca,Belo Horizonte,Outro,0.0,0.0,0.0,0.0,1.0,Dois ou mais,,Heterossexual,Transsexual Homem
+19/10/2022,11/11/1971,50,Feminino,Branca,Araxá,Residencia,0.0,0.0,1.0,0.0,0.0,Dois ou mais,Masculino,Homossexual,Transsexual Homem
+24/03/2022,18/12/1993,28,Feminino,,Betim,Via pública,1.0,,1.0,1.0,0.0,,Masculino,Bissexual,Transsexual Homem
+12/10/2022,12/11/2011,10,Feminino,Branca,Belo Horizonte,Residencia,,1.0,0.0,0.0,0.0,Um,Feminino,,Transsexual Homem
+03/10/2022,13/11/1979,42,Feminino,Branca,Belo Horizonte,Via pública,0.0,0.0,1.0,1.0,0.0,Um,Masculino,Homossexual,Transsexual Homem
+03/11/2022,16/12/2009,12,Feminino,Parda,Confins,Residencia,1.0,1.0,0.0,0.0,0.0,Um,,Heterossexual,Transsexual Homem
+19/11/2022,31/12/2009,12,Feminino,Parda,Jequitaí,Residencia,0.0,0.0,0.0,0.0,0.0,Um,Masculino,,Transsexual Homem
+05/11/2022,09/08/2004,18,Feminino,Parda,Contagem,Outro,1.0,1.0,0.0,0.0,0.0,Um,Feminino,Homossexual,Transsexual Homem
+17/12/2022,18/02/1980,42,Feminino,Parda,Sete Lagoas,Via pública,1.0,0.0,1.0,0.0,0.0,,Masculino,,Transsexual Homem
+31/10/2022,28/07/1987,35,Feminino,Parda,Santo Antônio do Monte,Via pública,0.0,0.0,1.0,1.0,0.0,Um,Masculino,Homossexual,Transsexual Homem
+10/11/2022,16/05/2006,16,Feminino,Branca,Poços de Caldas,Residencia,1.0,1.0,1.0,0.0,0.0,Um,Feminino,Bissexual,Transsexual Homem
+11/12/2022,10/08/2002,20,Feminino,Branca,Itaúna,Residencia,0.0,0.0,0.0,0.0,1.0,Um,Masculino,Heterossexual,Transsexual Homem
+20/12/2022,08/04/1977,45,Feminino,,Belo Horizonte,Residencia,1.0,1.0,1.0,0.0,0.0,Um,,Heterossexual,Transsexual Homem
+11/07/2022,14/04/1988,34,Feminino,Branca,Betim,Residencia,0.0,0.0,1.0,1.0,0.0,Um,Masculino,Heterossexual,Transsexual Homem
+12/11/2022,09/05/1985,37,Feminino,Parda,Belo Horizonte,Habitação coletiva,0.0,0.0,1.0,0.0,0.0,Dois ou mais,,Heterossexual,Transsexual Homem
